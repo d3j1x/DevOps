@@ -2,3 +2,5 @@ npm init -y
 npm i express
 
 node index.js
+
+docker build -t node-app .
